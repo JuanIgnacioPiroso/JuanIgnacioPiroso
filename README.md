@@ -19,7 +19,7 @@ Ademas, estudio junto a un compañero Desarrollo de aplicaciones moviles con Flu
 ## Contacto:
 
 [![Instagram](https://img.shields.io/badge/Instagram-@juannigna_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/juannigna_)</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan-Ignacio_Piroso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juanignaciopiroso)</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Ignacio_Piroso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juanignaciopiroso)</br>
 [![Web](https://img.shields.io/badge/Web-JuanIgnacioPiroso.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://pisciform-auditor.000webhostapp.com/)</br>
 
 
