@@ -18,7 +18,7 @@ Ademas, estudio junto a @arielbakal Desarrollo de aplicaciones moviles con Flutt
 
 ## Proyectos 💻
 
-<table style="width:100%">
+<table style="width:50%">
   <tr>
     <td>
       <a> 
