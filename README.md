@@ -2,7 +2,7 @@
 
 Actualmente me encuentro cursando el tercer año de la carrera de Ingenieria en Sistemas de Información en la Universidad Tecnologica Nacional Facultad Regional Buenos Aires (UTN FRBA).
 
-Ademas, estudio junto a un compañero Desarrollo de aplicaciones moviles con Flutter. 
+Ademas, estudio junto a @arielbakal Desarrollo de aplicaciones moviles con Flutter. 
 
 ## Skills 👨🏻‍💻 
 
