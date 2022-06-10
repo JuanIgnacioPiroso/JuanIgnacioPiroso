@@ -16,6 +16,21 @@ Ademas, estudio junto a @arielbakal Desarrollo de aplicaciones moviles con Flutt
 ![CSS](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)</br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
 
+## Proyectos 💻
+
+<table style="width:100%">
+  <tr>
+    <td>
+      <a> 
+        <img src = "https://i.postimg.cc/t4bCG85H/Git-1.png">
+      </a>
+    </td>
+  </tr>
+  </table>
+  </table>
+
+
+
 ## Contacto 📩
 
 [![Instagram](https://img.shields.io/badge/Instagram-@juannigna_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/juannigna_)</br>
