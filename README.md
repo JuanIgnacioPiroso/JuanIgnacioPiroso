@@ -7,6 +7,7 @@ Ademas, estudio junto a un compañero Desarrollo de aplicaciones moviles con Flu
 ## Skills:
 
 ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
+![C++](https://img.shields.io/badge/C++-FF0000?style=for-the-badge&logo=c++&logoColor=white&labelColor=101010)</br>
 
 
 
