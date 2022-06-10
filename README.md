@@ -19,13 +19,13 @@ Ademas, estudio junto a @arielbakal Desarrollo de aplicaciones moviles con Flutt
 ## Proyectos 💻
 
 <table style="width:100%">
-  <tr>
-    <td align = "center">
-      <a>
+  <thead>
+    <tr>
+      <th align="center">
         <img src = "https://i.postimg.cc/MTpn2gzG/Git-portada-Java.jpg">
-      </a>
-    </td>
-  </tr>
+      </th>
+    </tr>
+  </thead>
   
   <tr>
     <td>
