@@ -21,6 +21,14 @@ Ademas, estudio junto a @arielbakal Desarrollo de aplicaciones moviles con Flutt
 <table style="width:100%">
   <tr>
     <td>
+      <a>
+        <img src = "https://i.postimg.cc/MTpn2gzG/Git-portada-Java.jpg">
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
       <a> 
         <img src = "https://i.postimg.cc/mDC54pj0/Git-1.png">
       </a>
