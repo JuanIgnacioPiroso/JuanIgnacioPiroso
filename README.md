@@ -4,7 +4,7 @@ Actualmente me encuentro cursando el tercer año de la carrera de Ingenieria en 
 
 Ademas, estudio junto a un compañero Desarrollo de aplicaciones moviles con Flutter. 
 
-## Skills:
+## Skills 👨🏻‍💻 
 
 ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
 ![C++](https://img.shields.io/badge/C++-0000FF?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)</br>
@@ -16,7 +16,7 @@ Ademas, estudio junto a un compañero Desarrollo de aplicaciones moviles con Flu
 ![CSS](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)</br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
 
-## Contacto:
+## Contacto 📩
 
 [![Instagram](https://img.shields.io/badge/Instagram-@juannigna_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/juannigna_)</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Ignacio_Piroso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juanignaciopiroso)</br>
