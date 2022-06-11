@@ -30,7 +30,7 @@ Ademas, estudio junto a @arielbakal Desarrollo de aplicaciones moviles con Flutt
   <tr>
     <td>
       <a> 
-        <img src = "https://i.postimg.cc/vZPp0GWP/Git-1.png">
+        <img src = "https://i.postimg.cc/T2rFZVV5/Git-1.png">
       </a>
     </td>
   </tr>
