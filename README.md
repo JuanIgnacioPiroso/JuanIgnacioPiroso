@@ -38,7 +38,7 @@ Ademas, estudio junto a @arielbakal Desarrollo de aplicaciones moviles con Flutt
    <tr>
     <td>
       <a>
-        <img src = "https://i.postimg.cc/Pq7n5dJL/git-portada-flutter.png">
+        <img src = "https://i.postimg.cc/wjHmwp6s/gitportadaflutter2.jpg">
       </a>
     </td>
   </tr>
