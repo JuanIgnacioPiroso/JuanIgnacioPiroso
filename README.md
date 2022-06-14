@@ -1,8 +1,8 @@
-## Sobre Mi 🙋🏻‍♂️
+## About Me🙋🏻‍♂️
 
-Actualmente me encuentro cursando el tercer año de la carrera de Ingenieria en Sistemas de Información en la Universidad Tecnologica Nacional Facultad Regional Buenos Aires (UTN FRBA).
+I am currently studying the third year of the Information Systems Engineering degree at the National Technological University, Buenos Aires Regional Faculty (UTN FRBA).
 
-Ademas, estudio junto a @arielbakal Desarrollo de aplicaciones moviles con Flutter. 
+In addition, I study with @arielbakal Development of mobile applications with Flutter.
 
 ## Skills 👨🏻‍💻 
 
@@ -16,7 +16,7 @@ Ademas, estudio junto a @arielbakal Desarrollo de aplicaciones moviles con Flutt
 ![CSS](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)</br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
 
-## Proyectos 💻
+## Projects💻
 
 <table style="width:100%">
   <tr>
@@ -47,7 +47,7 @@ Ademas, estudio junto a @arielbakal Desarrollo de aplicaciones moviles con Flutt
 
 
 
-## Contacto 📩
+## Contact me 📩
 
 [![Instagram](https://img.shields.io/badge/Instagram-@juannigna_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/juannigna_)</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Ignacio_Piroso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juanignaciopiroso)</br>
