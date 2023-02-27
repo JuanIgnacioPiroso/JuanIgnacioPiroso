@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 💻Desarrollador de aplicaciones moviles <br>+1 año de experiencia<br><br>📚Estudiante de Ingenieria en Sistemas de Informacion
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juanignaciopiroso/) 
 
 # 💻 Tech Stack:
