@@ -1,75 +1,18 @@
-## About Me🙋🏻‍♂️
-
-I am currently studying the third year of the Information Systems Engineering degree at the National Technological University, Buenos Aires Regional Faculty (UTN FRBA).
-
-In addition, I study with @arielbakal Development of mobile applications with Flutter.
-
-## Skills 👨🏻‍💻 
-
-![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
-![C++](https://img.shields.io/badge/C++-0000FF?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)</br>
-![Flutter](https://img.shields.io/badge/Flutter-40CFFF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)</br>
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)</br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)</br>
-![HTML](https://img.shields.io/badge/HTML-FF8000?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
-![CSS](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)</br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
-
-## Projects💻
-
-<table style="width:100%">
-  <tr>
-    <td>
-      <a>
-        <img src = "https://i.postimg.cc/MTpn2gzG/Git-portada-Java.jpg">
-      </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      <a> 
-        <img src = "https://i.postimg.cc/T2rFZVV5/Git-1.png">
-      </a>
-    </td>
-  </tr>
-  
-   <tr>
-    <td>
-      <a>
-        <img src = "https://i.postimg.cc/wjHmwp6s/gitportadaflutter2.jpg">
-      </a>
-    </td>
-  </tr>
-  </table>
-  </table>
+# 💫 About Me:
+💻Desarrollador de aplicaciones moviles <br>+1 año de experiencia<br><br>📚Estudiante de Ingenieria en Sistemas de Informacion
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juanignaciopiroso/) 
 
-## Contact me 📩
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JuanIgnacioPiroso&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JuanIgnacioPiroso&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanIgnacioPiroso&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@juannigna_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/juannigna_)</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Ignacio_Piroso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juanignaciopiroso)</br>
-[![Web](https://img.shields.io/badge/Web-JuanIgnacioPiroso.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://pisciform-auditor.000webhostapp.com/)</br>
+---
+[![](https://visitcount.itsvg.in/api?id=JuanIgnacioPiroso&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-
-
-
-<!--
-**JuanIgnacioPiroso/JuanIgnacioPiroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
