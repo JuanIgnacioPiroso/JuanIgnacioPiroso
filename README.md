@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Desarrollador Fullstack <br>+1 año de experiencia<br><br>📚Estudiante de Ingenieria en Sistemas de Informacion
+💻Fullstack Software Developer <br>+1 año de experiencia<br><br>📚Estudiante de Ingenieria en Sistemas de Informacion
 
 
 ## 🌐 Socials:
