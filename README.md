@@ -1,6 +1,8 @@
 # 💫 About Me:
 💻Fullstack Software Developer <br>+1 año de experiencia<br><br>📚Estudiante de Ingenieria en Sistemas de Informacion
 
+🟡🤝🟡Product Matching Analyst at Mercado Libre
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juanignaciopiroso/) 
