@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Fullstack Software Developer <br>+1 año de experiencia<br><br>🟡🤝🟡Product Matching Analyst at Mercado Libre<br><br>📚Estudiante de Ingenieria en Sistemas de Informacion
+💻Fullstack Software Developer <br>+1 año de experiencia<br><br>🟡🤝🟡Functional analyst at Mercado Libre<br><br>📚Estudiante de Ingenieria en Sistemas de Informacion
 
 
 ## 🌐 Socials:
