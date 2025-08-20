@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Desarrollador Fullstack Freelance <br>+1 año de experiencia<br><br>🔵 Analista de IT Jr para Cencosud<br><br>📚Estudiante de Ingenieria en Sistemas de Informacion
+💻Desarrollador Fullstack Freelance <br>+1 año de experiencia<br><br>🔵 IT Analyst para Cencosud<br><br>📚Estudiante de Ingenieria en Sistemas de Informacion
 
 
 ## 🌐 Socials:
